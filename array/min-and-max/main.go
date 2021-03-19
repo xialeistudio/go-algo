@@ -1,3 +1,4 @@
+// 求数组最大和最小值
 package min_and_max
 
 func minAndMax(nums []int, begin, end int) (int, int) {
