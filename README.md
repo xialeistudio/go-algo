@@ -19,8 +19,8 @@
         + [ ] 背包问题
         + [x] 最大子序和: dp/max_subarray
         + [x] 最长上升子序列: dp/maxup_subarray
-        + [x] 三角形最小路径和: min_triangle
-        + [x] 矩阵最小路径和: min_matrix
+        + [x] 三角形最小路径和: dp/min_triangle
+        + [x] 矩阵最小路径和: dp/min_matrix
 + 搜索算法
     + 回溯
     + 递归
@@ -33,7 +33,9 @@
 
 ## 数据结构
 
-+ 数组与链表：单 / 双向链表
++ 数组
+  + [x] 最大值和最小值: array/min-and-max
++ 链表
 + 栈与队列
 + 哈希表
 + 堆：最大堆 ／ 最小堆
