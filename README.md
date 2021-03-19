@@ -36,6 +36,7 @@
 + 数组
   + [x] 最大值和最小值: array/min-and-max
 + 链表
+  + [x] O(1)时间复杂度删除单链表节点: linklist/delete-node
 + 栈与队列
 + 哈希表
 + 堆：最大堆 ／ 最小堆
