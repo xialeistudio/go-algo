@@ -18,7 +18,7 @@
         + [ ] 爬楼梯: dp/floor
         + [ ] 背包问题
         + [x] 最大子序和: dp/max_subarray
-        + [ ] 最长上升子序列: dp/maxup_subarray
+        + [x] 最长上升子序列: dp/maxup_subarray
 + 搜索算法
     + 回溯
     + 递归
