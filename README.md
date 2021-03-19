@@ -15,7 +15,7 @@
         + [x] 找零钱: greedy/money
         + [x] 背包问题: greedy/pack
     + 动态规划
-        + [ ] 爬楼梯: dp/floor
+        + [x] 爬楼梯: dp/floor
         + [ ] 背包问题
         + [x] 最大子序和: dp/max_subarray
         + [x] 最长上升子序列: dp/maxup_subarray
